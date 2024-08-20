@@ -8,6 +8,6 @@ client.submit_job(
     runtime_env={
         "working_dir": "./",
         "pip": ["requests==2.26.0"],
-        "py_modules": ["https://github.com/moinakmalkhan/learn-kuberay"],
+        "py_modules": ["https://github.com/moinakmalkhan/learn-kuberay/archive/93f2c48233518db7cc5aefee9ac9c4f8e99b8c38.zip"],
     }
-)  
+)
